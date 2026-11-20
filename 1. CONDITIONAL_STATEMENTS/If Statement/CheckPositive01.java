@@ -8,6 +8,7 @@ public class CheckPositive01{
         if(num>0){
             System.out.println("POSITIVE NUMBER.");
         }
+        sc.close();
     }
     
 }
